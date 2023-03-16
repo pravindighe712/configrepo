@@ -1,0 +1,3 @@
+spring.cloud.config.name=AWS,BFL,Endpoints,External,Auth,OM-Credit-Endpoints,OM-Credit-External-Endpoints,OM-Credit,OM-Common-Endpoints,NotificationMailModule,OM-Credit-EsignService,OM-Verification-VerificationDomain
+spring.cloud.config.fail-fast=true
+spring.main.allow-bean-definition-overriding=true
